@@ -1,0 +1,146 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     1632 MB
+    Driver:   9.17.10.4459
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.118 seconds
+Platform assembly: D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\3__CODE\Unity projects\Builds\BlockBreaker\BlockBreakerDesktop\BlockBreakerWin_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.761078 ms
+MusicPlayer Awake : 576
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MusicPlayer Start : 576
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level load requested for Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.109240 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.220233 ms (FindLiveObjects: 0.028224 ms CreateObjectMapping: 0.016250 ms MarkObjects: 0.161219 ms  DeleteObjects: 0.013256 ms)
+
+(0.2, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+breakableCount= 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+breakableCount= 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.4, 0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.2, 0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+breakableCount= 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.0, 0.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+breakableCount= 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.0, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.2, 0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.0, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+breakableCount= 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.1, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+breakableCount= 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.4, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.3, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.2, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.1, 0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.0, 0.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-0.4, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.3, 0.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level load requested for Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.493922 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.401552 ms (FindLiveObjects: 0.032072 ms CreateObjectMapping: 0.026941 ms MarkObjects: 0.173621 ms  DeleteObjects: 0.168061 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1da4 -> priority: 1 
